@@ -1,5 +1,7 @@
 # MiniDB -- A Tiny In-Memory SQL Engine
 
+[![tests](https://github.com/iamabhishek841/minidb/actions/workflows/tests.yml/badge.svg)](https://github.com/iamabhishek841/minidb/actions/workflows/tests.yml)
+
 MiniDB is a small in-memory database engine built from scratch in Python.
 It implements its own **B-Tree storage index**, a **SQL tokenizer +
 recursive-descent parser**, and a **query executor** -- no external
